@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Management System MVP
 
 A complete full-stack Event Management System supporting event creation, editing, deletion, viewing, attendee registration, capacity checks, duplicate prevention, and attendee list viewing.
@@ -99,3 +100,7 @@ npm run dev
 4. **DELETE EVENT**: Remove event with modal confirmation.
 5. **REGISTER FOR EVENT**: Name & email collection with duplicate and full-capacity prevention.
 6. **VIEW ATTENDEES**: Table view of registered attendees with count.
+=======
+# EventManagementSystem
+event registration system
+>>>>>>> 353087512e0fc1e8a6e7c34ebff3e66545ecbbdc
