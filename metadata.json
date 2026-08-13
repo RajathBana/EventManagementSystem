@@ -1,0 +1,6 @@
+{
+  "name": "Event Management System",
+  "description": "An Event Management System MVP supporting event creation, editing, deletion, viewing, attendee registration, and attendee listing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
