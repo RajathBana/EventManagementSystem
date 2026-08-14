@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Event Management System MVP
 
 A complete full-stack Event Management System supporting event creation, editing, deletion, viewing, attendee registration, capacity checks, duplicate prevention, and attendee list viewing.
